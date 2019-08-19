@@ -4,6 +4,6 @@
   }
   </style>
   
-  <h2 class=" red-text">Patrick Gauthier Kamgang </h2>
+  <h2 class="red-text">Patrick Gauthier Kamgang </h2>
   
 Provides the internet platform via which health facilities in Cameroon interact and deliver their affordable and quality services at the doorstep of users.
