@@ -2,6 +2,7 @@
   .color-text{
   color:red;
   }
+  </style>
   
   <h1 class=" red-text">Patrick Gauthier Kamgang </h1>
   
